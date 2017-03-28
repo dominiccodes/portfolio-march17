@@ -76,10 +76,11 @@ header {
 	transition: all .8s ease;
 	padding: 35px 15px;
 	text-align: left;
-	
+	opacity: 0;
 }
 
 .work .box:hover .hover-box {
+	opacity: 1;
 	left: 0;
 }
 
