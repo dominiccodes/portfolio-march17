@@ -1,0 +1,64 @@
+body {
+	font-family: 'Archivo Narrow', sans-serif;
+	background-color: #30395c;
+}
+
+
+#logo {
+	text-align: center;
+	width: 60px;
+	height: 60px;
+	
+	display: inline-block;
+}
+
+#top-nav {
+	float: right;
+	display: inline-block;
+}
+
+
+#top-nav a {
+	display: inline-block;
+	color: #fff;
+	text-decoration: none;
+	padding: 15px 15px;
+}
+
+
+
+#top-nav a:hover {
+	color: #85a5cc;
+	text-decoration: none;
+	padding: 0 15px;
+}
+
+.hero h1 {
+	color: #fff;
+	font-size: 2.5em;
+	font-weight: 700;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
